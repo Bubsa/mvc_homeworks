@@ -1,0 +1,30 @@
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\bin\Debug\net8.0\appsettings.json
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\bin\Debug\net8.0\MVC Class One.staticwebassets.runtime.json
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\bin\Debug\net8.0\MVC Class One.exe
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\bin\Debug\net8.0\MVC Class One.deps.json
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\bin\Debug\net8.0\MVC Class One.runtimeconfig.json
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\bin\Debug\net8.0\MVC Class One.dll
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\bin\Debug\net8.0\MVC Class One.pdb
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.AssemblyInfoInputs.cache
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.AssemblyInfo.cs
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.csproj.CoreCompileInputs.cache
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.RazorAssemblyInfo.cache
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.RazorAssemblyInfo.cs
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\staticwebassets\msbuild.MVC Class One.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Class One.props
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Class One.props
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Class One.props
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\scopedcss\bundle\MVC Class One.styles.css
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\scopedcss\projectbundle\MVC Class One.bundle.scp.css
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.dll
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\refint\MVC Class One.dll
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.pdb
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\MVC Class One.genruntimeconfig.cache
+C:\Users\code\Documents\GitHub\mvc_homeworks\Class 01\MVC Class One\MVC Class One\obj\Debug\net8.0\ref\MVC Class One.dll
